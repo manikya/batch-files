@@ -1,0 +1,16 @@
+M6K5S-NPE02,10.32.0.139,admin,hutch123,/sysdisk0/DATA0/,startrun,.dat,D:\backup\StartrunFilesFromRouters\
+M6K5S-NPE01,10.32.0.135,admin,hutch123,/sysdisk0/DATA0/,startrun,.dat,D:\backup\StartrunFilesFromRouters\
+M6K5S-NPE03,10.32.128.129,admin,hutch123,/sysdisk0/DATA0/,startrun,.dat,D:\backup\StartrunFilesFromRouters\
+M6K5S-NPE04,10.32.128.130,admin,hutch123,/sysdisk0/DATA0/,startrun,.dat,D:\backup\StartrunFilesFromRouters\
+9K3E-CE01,10.32.0.150,admin,hutch123,/sysdisk0/DATA0/,startrun,.dat,D:\backup\StartrunFilesFromRouters\
+9K3E-CE02,10.32.0.151,admin,hutch123,/sysdisk0/DATA0/,startrun,.dat,D:\backup\StartrunFilesFromRouters\
+9K3E-CE03,10.32.128.148,admin,hutch123,/sysdisk0/DATA0/,startrun,.dat,D:\backup\StartrunFilesFromRouters\
+9K3E-CE03,10.32.128.149,admin,hutch123,/sysdisk0/DATA0/,startrun,.dat,D:\backup\StartrunFilesFromRouters\
+M6K3S-BGW1,10.32.0.136,admin,hutch123,/sysdisk0/DATA0/,startrun,.dat,D:\backup\StartrunFilesFromRouters\
+M6K3S-BGW2,10.32.128.152,admin,hutch123,/sysdisk0/DATA0/,startrun,.dat,D:\backup\StartrunFilesFromRouters\
+PSLANSW01-02,10.32.0.137,admin,hutch123,/flash/DATA0/,startrun,.dat,D:\backup\StartrunFilesFromRouters\
+PSLANSW03-04,10.32.128.146,admin,hutch123,/flash/DATA0/,startrun,.dat,D:\backup\StartrunFilesFromRouters\
+SMSC-SW-1,10.32.0.156,admin,hutch123,/flash/DATA0/,startrun,.dat,D:\backup\StartrunFilesFromRouters\
+SMSC-SW-2,10.32.0.157,admin,hutch123,/flash/DATA0/,startrun,.dat,D:\backup\StartrunFilesFromRouters\
+DC02-5952-1,10.32.0.254,admin,hutch123,/flash/DATA0/,startrun,.dat,D:\backup\StartrunFilesFromRouters\
+DC03-5952-1,10.32.128.143,admin,hutch123,/flash/DATA0/,startrun,.dat,D:\backup\StartrunFilesFromRouters\
