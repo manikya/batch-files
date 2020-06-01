@@ -1,5 +1,3 @@
-Created By - Tharindu Janaraj
-
 Zip Folders Batch file needs 7Zip intalled in the machine
 download link - https://www.7-zip.org/
 
